@@ -1,5 +1,5 @@
-a = int(input())
-b = int(input())
+a = int(1)
+b = int(9)
 
 print("a =", a)
 print("b  =", b)
